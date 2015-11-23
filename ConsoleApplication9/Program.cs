@@ -4,6 +4,9 @@ using System.Linq;
 
 namespace ConsoleApplication9
 {
+    /// <summary>
+    /// 参照型（クラス）のリストと配列の初期化と列挙 その2
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
