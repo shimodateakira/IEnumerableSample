@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication9
+﻿namespace IEnumerableSample
 {
     public class Employee
     {

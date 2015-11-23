@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ConsoleApplication9
+namespace IEnumerableSample
 {
     public static class IEnumerableExtension
     {

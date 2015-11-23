@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ConsoleApplication9
+namespace IEnumerableSample
 {
     /// <summary>
     /// 参照型（クラス）のリストと配列の初期化と列挙 その2
